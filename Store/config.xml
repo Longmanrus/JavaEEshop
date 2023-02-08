@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Configs>
+    <Config id="1">
+        <DRIVER>com.mysql.cj.jdbc.Driver</DRIVER>
+        <DB>store_site</DB>
+        <LOGIN>root</LOGIN>
+        <PASSWORD></PASSWORD>
+    </Config>
+    <Config id="2">
+        <DRIVER>com.mysql.cj.jdbc.Driver</DRIVER>
+        <DB>lesson17</DB>
+        <LOGIN>root</LOGIN>
+        <PASSWORD></PASSWORD>
+    </Config>
+</Configs>
